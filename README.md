@@ -1,4 +1,4 @@
-# Python Chatbot 🤖
+# Python Chatbot 
 
 ## Description
 This project is a simple text-based chatbot built using Python.  
